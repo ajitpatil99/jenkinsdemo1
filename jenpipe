@@ -1,0 +1,7 @@
+node {
+  stage('Hello') {
+    sh ' echo "welcome to abc" '
+   }
+}
+  
+ 
